@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/ip/*"
+  to = "https://kernel.ifoxhui.com/:splat"
+  status = 200
